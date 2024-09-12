@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Saifullah</h1>
-<h3 align="center">Dynamic & Results-driven professional with a strong background in CSE,
+<h3 align="justify">Dynamic & Results-driven professional with a strong background in CSE,
 specializing in Data Analysis, Business Analysis, and Project Management.
 Proficient in bridging the gap between Business and IT, translating complex
 requirements into effective technical solutions, delivering high-quality
