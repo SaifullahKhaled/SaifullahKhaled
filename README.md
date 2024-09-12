@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Khaled Saifullah</h1>
-<h3 align="center">Data-Driven Business Analyst | Software Development Specialist | Bridging IT and Business Through Agile Solutions and Digital Transformation</h3>
+<h3 align="center">Dynamic & Results-driven professional with a strong background in CSE,
+specializing in Data Analysis, Business Analysis, and Project Management.
+Proficient in bridging the gap between Business and IT, translating complex
+requirements into effective technical solutions, delivering high-quality
+customer service, and driving revenue growth. Leverages analytical skills and
+technical expertise to drive innovation and achieve strategic objectives.
+Key Strengths:
+● Proficient in Data Analysis & Program Development, and Project
+Management.
+● Proficient in Requirement Elicitation, SDLC, System Design, and Software
+Development Methodologies (Agile, Scrum).
+● Sound knowledge of Software development across multiple languages.
+● Strong background in Documentation, Design, and UML.
+● Excellent stakeholder management abilities.
+● Proven track record in Project Management, Program Development,
+Quality Assurance, Recruitment, and Risk Management.
+● Customer-centric, empathetic, and adaptable with cross-cultural
+awareness.
+Combines technical acumen with strong communication skills to facilitate
+seamless collaboration between cross-functional teams and drive successful
+project outcomes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullahkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="saifullahkhaled" /> </p>
 
